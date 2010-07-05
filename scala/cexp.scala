@@ -1,10 +1,10 @@
 /*
  * Copyright (c) 2010 h_sakurai, freecluster.net. All rights reserved.
  *
- * cexp.scala
- * Functional Top Down Operator Precedence C Like eXPression parser
+ * compact.scala
+ * Functional Top Down Operator Precedence Compact eXPression parser
  */
-package cexp
+package compact
 import scala.util.matching.Regex
 import scala.collection.mutable.{HashMap,Stack}
 
