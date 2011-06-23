@@ -1,0 +1,7 @@
+Compact is simple programming language c like expression language.
+Compact Expression have not semantics like XML.
+
+*clone
+
+git clone git@github.com:hsk/compact.git
+
