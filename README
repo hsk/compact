@@ -4,4 +4,6 @@ Compact Expression have not semantics like XML.
 *clone
 
 git clone git@github.com:hsk/compact.git
+git commit -a
+git push origin matster
 
